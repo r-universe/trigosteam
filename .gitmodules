@@ -8,3 +8,8 @@
 	url = https://github.com/trigosteam/spasim
 	shallow = true
 	registered = true
+[submodule "SPIAT"]
+	path = SPIAT
+	url = https://github.com/trigosteam/spiat
+	shallow = true
+	registered = true

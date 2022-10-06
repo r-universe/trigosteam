@@ -1,5 +1,8 @@
 [
   {
     "package": "spaSim"
+  },
+  {
+    "package": "SPIAT"
   }
 ]
