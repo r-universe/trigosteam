@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "spaSim"]
 	path = spaSim
 	url = https://github.com/trigosteam/spasim
-	shallow = true
-	registered = true
 [submodule "SPIAT"]
 	path = SPIAT
 	url = https://github.com/trigosteam/spiat
-	shallow = true
-	registered = true
